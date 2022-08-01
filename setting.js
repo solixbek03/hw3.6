@@ -1,4 +1,4 @@
-var age = parseInt(prompt("Yoshingiz nechida?").trim(), 10);
+var age = prompt("Yoshingiz nechida?").trim();
 
 
 if (isNaN(age)) {
